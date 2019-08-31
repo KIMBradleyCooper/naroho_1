@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">naroho_1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_mc">내카드</string>
+    <string name="menu_mh">이용기록</string>
+    <string name="menu_mp">내 게시물관리</string>
+    <string name="menu_tools">설정</string>
+    <string name="menu_notice">공지사항</string>
+    <string name="menu_mcha">채팅목록</string>
+    <string name="내카드" />
+    <string name="이용기록" />
+    <string name="내게시물" />
+    <string name="채팅목록" />
+    <string name="공지사항" />
+    <string name="설정" />
+</resources>
